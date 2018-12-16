@@ -1,0 +1,4 @@
+# ignore data folder
+/data
+# ignore .ipynb_chechpoints
+/.ipynb_checkpoints
